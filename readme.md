@@ -1,4 +1,4 @@
-# Assignment 4 - Age Prediction
+# Age Prediction using Machine Learning
 ## _Problem Description_
 #### Age prediction as a CV task is useful for various real-world applications, such as age-restricted content filtering, personalized marketing targeting specific age demographics, enhancing security systems with age verification, and assisting in medical diagnostics and age-related research.
 
